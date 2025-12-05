@@ -3,7 +3,8 @@
 
 This repository contains the core implementation of the CAFNet model proposed in our manuscript "[Diffuse optical Imaging with CAFNet (channel attention fusion network)]" (JBO), an annotated simulated dataset, experimental phantom dataset as well as requirement file for readers.
 
-<img width="1212" height="635" alt="CAFNet" src="[https://github.com/user-attachments/assets/8893eac8-9128-4a1e-8fad-0dcfce5497ae](https://github.com/SDMPLab/CAFNet/blob/main/CAFNet.png)" />
+<img width="1212" height="635" alt="CAFNet" src="https://github.com/user-attachments/assets/364043f1-45ea-43f1-9b20-0b2657f41463" />
+
 
 ---
 
